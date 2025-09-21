@@ -6,7 +6,7 @@
 Hey there! I’m Mayank, a developer who loves turning ideas into applications.
 From crafting clean UIs to building scalable backends, I enjoy solving problems with code that’s not just functional, but also delightful.
 
-##### 💡 Think of me as someone who:
+### 💡 Think of me as someone who:
 - Writes code that tells a story 📖
 - Treats bugs as plot twists 🐞
 - Sees teamwork as the real superpower 🤝
